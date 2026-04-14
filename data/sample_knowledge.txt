@@ -1,0 +1,4 @@
+Human-Computer Interaction focuses on designing user-friendly systems.
+RAG stands for Retrieval-Augmented Generation.
+Gradio is used to build simple web interfaces for ML models.
+FAISS enables fast similarity search using vector embeddings.
